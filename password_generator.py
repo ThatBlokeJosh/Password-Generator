@@ -32,7 +32,7 @@ generate()
 password_text = "".join([str(item) for item in password])
 print(f"Your password: {password_text}")
 
-file_path = '/home/josh/Coding/Projects/Class/pass.txt'
+file_path = './pass.txt'
 file_exists = os.path.isfile(file_path)
 
 f = open(file_path, 'a')
