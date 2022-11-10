@@ -31,4 +31,5 @@ def generate(pass_use, pass_length): # Define the generate function
 
     f.close() # Enjoy your new password!
 
-
+# Feel free to use this as a library or use the run file for the default usage of this function    
+# Check out my other projects on my GitHub: https://github.com/ThatBlokeJosh
